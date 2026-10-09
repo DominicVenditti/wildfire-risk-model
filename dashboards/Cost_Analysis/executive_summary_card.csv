@@ -1,0 +1,2 @@
+report_date,system_version,model_auc,model_precision,model_recall,annual_savings,annual_cost,net_benefit,roi_percent,payback_months,five_year_savings,confidence_level,recommendation,pilot_duration_months,full_deployment_months
+2026-10-03,6.0,0.987,0.863,0.962,971640625.0,530000.0,392020492.07821554,183228.41981132075,0.006549202363016057,5344023437.5,High,Proceed with deployment,3,12

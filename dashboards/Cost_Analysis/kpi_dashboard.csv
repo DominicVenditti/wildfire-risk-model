@@ -1,0 +1,13 @@
+kpi_name,value,unit,target,status
+Total Annual Savings,971640625.0,USD,500000000.0,Exceeds
+Net Annual Benefit,392020492.07821554,USD,400000000.0,Below
+Return on Investment,183228.41981132075,Percent,400.0,Exceeds
+Payback Period (Months),0.006549202363016057,Months,6.0,Exceeds
+Fires Prevented,87.0,Fires,75.0,Target
+Acres Preserved,87000.0,Acres,75000.0,Target
+Structures Saved,450.0,Structures,400.0,Target
+Lives Saved,75.0,Lives,50.0,Target
+False Alarm Rate,5.1,Percent,10.0,Good
+Model Accuracy (AUC),0.987,Score,0.95,Good
+System Uptime,99.9,Percent,99.5,Good
+Cost per Fire Prevented,6091.954022988506,USD,5000000.0,Good

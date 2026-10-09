@@ -1,0 +1,8 @@
+cost_type,amount,frequency,annual_equivalent,category
+Initial Development,500000,One-time,100000,Development
+Cloud Infrastructure,120000,Annual,120000,Operations
+Data Acquisition,50000,Annual,50000,Operations
+Maintenance (2 FTE),200000,Annual,200000,Personnel
+Model Retraining,50000,Annual,50000,Operations
+Power BI Licensing,20000,Annual,20000,Software
+Training & Outreach,30000,Annual,30000,Personnel

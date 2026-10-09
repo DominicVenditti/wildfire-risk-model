@@ -1,0 +1,13 @@
+{
+  "system_name": "California Wildfire Prediction System",
+  "version": "6.0",
+  "created": "2026-10-03T18:39:49.479859",
+  "config": {
+    "station_radius_km": 30,
+    "forecast_days": 7,
+    "clip_min": 0.01,
+    "clip_max": 0.95,
+    "ca_weight": 0.6,
+    "iberian_weight": 0.4
+  }
+}

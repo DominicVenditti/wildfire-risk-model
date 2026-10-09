@@ -1,0 +1,34 @@
+{
+  "package_name": "California WildFire Complete",
+  "created": "2026-10-03T18:39:49.480037",
+  "contents": {
+    "data_files": [
+      "feature_importance.csv",
+      "cleaned_fire_weather_data.csv",
+      "wildland_only_data.csv",
+      "test_set_with_predictions.csv"
+    ],
+    "model_files": [
+      "wildfire_risk_model.pkl",
+      "iberian_model.pkl",
+      "model_config.json",
+      "production_calibrator.pkl"
+    ],
+    "powerbi_files": [
+      "7day_summary.csv",
+      "current_risk.csv",
+      "locations_reference.csv",
+      "7day_outlook.csv",
+      "date_dimension.csv",
+      "enhanced_7day_outlook.csv"
+    ],
+    "documentation_files": [
+      "power_bi_setup_guide.md",
+      "README.md",
+      "metrics_summary.json"
+    ],
+    "reference_files": [
+      "system_configuration.json"
+    ]
+  }
+}

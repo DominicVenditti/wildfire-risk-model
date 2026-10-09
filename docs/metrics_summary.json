@@ -1,0 +1,28 @@
+{
+  "model_version": "6.0",
+  "generated": "2026-10-03T18:39:49.479511",
+  "performance": {
+    "auc": 0.9861985686064136,
+    "precision": 0.8573770491803279,
+    "recall": 0.947463768115942,
+    "f2": 0.9279630943931867,
+    "threshold": 0.4100000000000001
+  },
+  "dataset": {
+    "total_records": 48756,
+    "wildland_records": 34929,
+    "features": [
+      "ELEVATION",
+      "TEMP",
+      "DEWP",
+      "SLP",
+      "WDSP",
+      "MXSPD",
+      "MAX",
+      "MIN",
+      "PRCP",
+      "temp_range",
+      "dewpoint_depression"
+    ]
+  }
+}

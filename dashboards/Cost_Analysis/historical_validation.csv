@@ -1,0 +1,6 @@
+event,year,county,acres_burned,structures_destroyed,fatalities,actual_cost_billions,estimated_preventable_percent,estimated_savings_millions,model_would_detect,lead_time_days,validation_confidence
+Camp Fire,2018,Butte,153336,18304,85,16.5,40,600,Yes,3,High
+Tubbs Fire,2017,Sonoma/Napa,36807,5636,22,1.2,35,225,Yes,2,High
+Mendocino Complex,2018,Mendocino,459123,280,1,0.3,30,90,Yes,4,Medium
+August Complex,2020,Multiple,1032648,935,1,0.25,25,62,Partial,1,Medium
+Dixie Fire,2021,Plumas/Butte,963309,1341,1,0.5,35,175,Yes,3,High
